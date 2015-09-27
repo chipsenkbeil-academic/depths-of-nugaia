@@ -1,0 +1,43 @@
+To Do:
+-------------------------------
+- Add intro movie
+- Finish second level
+
+Bugs:
+-------------------------------
+- Players can still do the flying grapple block trick (or as Chip calls it, the Demon Block)
+- There's a small floating black dot around Nyx's head
+- Bug with colliders in the simple fracture
+
+Suggestions:
+--------------------------------
+- Make the goal in part 2 more obvious
+- Show players the robot when they enter so they know it's coming, add music that plays when the robot gets close to the player
+- Add in the animation for grappling
+- Add fade in for levels
+
+
+Done:
+--------------------------------
+- Adjust air vent velocity for the spinning robot death trap
+- Move the staircase at the end of part 1 (the one directly in front of the house) to the left a little bit more so 
+    players are more likely to land on it
+- Fix stairs sometimes falling at beginning
+- The block that players pull down should be bigger
+- Light up the check points when you pass by them
+- Make the blocks in part 2 smaller
+- Unitilized grappling hook exception when you die
+- Add more props to levels (still working on part 2)
+- The robot goes through the walls in part 2 (simply fix the way points)
+- Reduced the size of the robot collider
+- Slow down the robot
+- Player can jump the gaps in part 2 if they jump at the right time (lowered the jump height slightly)
+- Elevator is still bugging out (won't go all the way down, sometimes will slowly go up until the player jumps off, ect)
+- Add hair to the character model
+- Add a controls menu to the main menu, possibly allow players to change key bindings (showing controls during level)
+- Player shooting forward when they're swinging at high speeds
+- Add in/fix the death animation
+- Allow players to reattach themselves to another surface without having to detach, then reattach (referring to the 
+    planks at the end of part 1)
+- Make grappling the pipe and block in the beginning of part 1 more obvious 
+    (someone suggested having the camera zoom out in certain parts, maybe make zooming out in general a feature?)

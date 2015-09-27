@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: eddf27ad07d931044a0094f2bdb15594
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - collisionSoundEffect: {fileID: 8300000, guid: c6eed5978fbb16b4182cdf6ab1651394,
+      type: 1}
+  executionOrder: 0
+  icon: {instanceID: 0}

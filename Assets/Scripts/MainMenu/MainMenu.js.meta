@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 117e7bc521c9d504c8852dff13af2a7d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - newgame_skin: {fileID: 11400000, guid: 6e379083687e25e48a52e1f921c8af8a, type: 2}
+  - loadgame_skin: {fileID: 11400000, guid: 3c355379f8c611b439dd657777b9f1fc, type: 2}
+  - options_skin: {fileID: 11400000, guid: 1259a555842868444b9a988ccdfe9c20, type: 2}
+  - quitgame_skin: {fileID: 11400000, guid: c107302a1fe6add4baa50ec23f3ad593, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
